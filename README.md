@@ -1,2 +1,2 @@
-# DSE-GUI-Project-C-Hotel-Reservation-System
+# DSE-GUI-Project-C#-Hotel-Reservation-System
 
